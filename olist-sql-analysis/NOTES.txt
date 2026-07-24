@@ -1,0 +1,1 @@
+This project is designed to be run locally with the bundled PostgreSQL binaries and psql.
